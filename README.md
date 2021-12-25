@@ -1,3 +1,4 @@
-# appSeries
-<h1> App de cadastro de séries em .NET
+# App de cadastro de séries em .NET
+## Criando uma APP de cadastro em memória
+
 
